@@ -21,8 +21,8 @@ I am a **Performance-driven Software Engineer** with **2.5 years of experience**
 
 ### 📂 Key Projects
 
-- **SaaS Enterprise Analytics Dashboard:** Engineered a responsive dashboard using React and Redux Toolkit with real-time Chart.js visualizations and Firebase Authentication.
-- **AI-Integrated Job Strategy Tracker:** Developed a full-stack tracker using Node.js and REST APIs with a mobile-first design using Tailwind CSS.
+- **Enterprise Dashboard:** Engineered a responsive dashboard using React and Redux Toolkit with real-time Chart.js visualizations and Firebase Authentication.
+- **Apex Career:** Developed a full-stack tracker using Node.js and REST APIs with a mobile-first design using Tailwind CSS. (Integrated with Google gemini AI)
 - **Pettle:** Led a 4-member team to build a mental health screening web application, winning a national-level hackathon.
 
 ---
